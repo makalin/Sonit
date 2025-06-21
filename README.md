@@ -1,14 +1,18 @@
 # Sonit
 
-**Translating the Unspoken.**
+<div align="center">
+  <img src="logo.png" alt="Sonit Logo" width="200" height="200">
+  <br>
+  <strong>Translating the Unspoken.</strong>
+</div>
 
-Sonit is an open-source translator for non-verbal vocal gestures such as murmurs, hums, and culturally meaningful sounds (e.g., “hıh”, “ıhı”, “tsk”). It aims to give a voice to those who cannot speak, by interpreting subtle audio cues and translating them into words, intentions, or actions.
+Sonit (Sonic Unit) is an open-source translator for non-verbal vocal gestures such as murmurs, hums, and culturally meaningful sounds (e.g., "hıh", "ıhı", "tsk"). It aims to give a voice to those who cannot speak, by interpreting subtle audio cues and translating them into words, intentions, or actions.
 
 ---
 
 ## 🧠 Overview
 
-Sonit bridges the gap between vocal expression and spoken language. It’s designed for individuals with aphonia, neurological conditions, or temporary vocal loss, and for researchers working on human–machine interaction with minimal audio signals.
+Sonit bridges the gap between vocal expression and spoken language. It's designed for individuals with aphonia, neurological conditions, or temporary vocal loss, and for researchers working on human–machine interaction with minimal audio signals.
 
 Sonit learns how a user expresses meaning through sound — then builds a personalized model to translate those expressions.
 
@@ -26,7 +30,7 @@ Sonit learns how a user expresses meaning through sound — then builds a person
 
 ## 🔍 Features
 
-- 🎙️ **Sound Input** — Captures vocal gestures like “mur”, “tsk”, “uhh”
+- 🎙️ **Sound Input** — Captures vocal gestures like "mur", "tsk", "uhh"
 - 🧬 **Sound-to-Intent Model** — Learns how each user expresses approval, refusal, interest, etc.
 - 🧠 **Training Mode** — User/caregiver can label sounds and build a unique translation set
 - 🧾 **Live Translation** — Real-time feedback showing interpreted meaning
