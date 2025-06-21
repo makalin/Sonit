@@ -1,7 +1,7 @@
 # Sonit
 
 <div align="center">
-  <img src="logo.png" alt="Sonit Logo" width="200" height="200">
+  <img src="logo.png" alt="Sonit Logo">
   <br>
   <strong>Translating the Unspoken.</strong>
 </div>
